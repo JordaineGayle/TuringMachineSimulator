@@ -1,0 +1,15 @@
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\bin\Debug\net7.0\TuringMachine.exe
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\bin\Debug\net7.0\TuringMachine.deps.json
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\bin\Debug\net7.0\TuringMachine.runtimeconfig.json
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\bin\Debug\net7.0\TuringMachine.dll
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\bin\Debug\net7.0\TuringMachine.pdb
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.AssemblyInfo.cs
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.dll
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\refint\TuringMachine.dll
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.pdb
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\TuringMachine.genruntimeconfig.cache
+C:\Users\jorda\source\repos\TuringMachine\TuringMachine\obj\Debug\net7.0\ref\TuringMachine.dll
